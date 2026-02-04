@@ -19,7 +19,6 @@ def main():
 
     st.title("steamlit test")
     st.header("header")
-    st.write("test")
     st.write("")
     st.text("text")
 
@@ -51,4 +50,5 @@ def main():
 
 
 if __name__ == '__main__':
+
     main()
